@@ -41,7 +41,7 @@
 
 # 👋 Hi, I’m **KaliAssistant**
 
-#### 🛠️ About Me
+### About Me
 - Open‑source hardware & embedded‑systems engineer  
 - Passionate about cybersecurity, IT‑networking, embedded devices, hardware reverse‑engineering  
 - Arduino, Raspberry Pi, Linux, PCB design/layout, ham‑radio, Meshtastic enthusiast
