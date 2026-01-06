@@ -48,24 +48,24 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🐰 [PI‑Bunny](https://github.com/KaliAssistant/PI-Bunny)  
-A low‑cost USB hacking gadget based on Raspberry Pi Zero W—similar in spirit to the Hak5 Bash Bunny:  
-- Emulates HID, mass‑storage, serial, RNDIS Ethernet via GPIO switches and scripts
-- Ideal for pentesting, educational demos, IoT-focused security research
+### [Lichee-Jack](https://github.com/KaliAssistant/Lichee-Jack)  
+A low-cost, DIY social-engineering LAN Attack & Penetration Testing Army knife:  
+- 100% open-source hardware & software
+- designed for payload delivery, opportunistic wired auditing, and red-team / SE engagements
 
-### 📡 [rpi‑sdr‑tx](https://github.com/KaliAssistant/rpi-sdr-tx)  
+### [rpi‑sdr‑tx](https://github.com/KaliAssistant/rpi-sdr-tx)  
 A full SDR transmitter toolkit using rpitx on Raspberry Pi Zero 2 W:  
 - Covers RF from ~5 kHz to 1.5 GHz via PWM/GPIO  
 - Includes install scripts, libraries, utilities, gerbers — a portable SDR TX platform
 
-### 🌐 [Radio_MESHLAB](https://github.com/KaliAssistant/Radio_MESHLAB)  
+### [Radio_MESHLAB](https://github.com/KaliAssistant/Radio_MESHLAB)  
 Documentation-backed repository for a radio mesh AREA network—complete guide in the wiki 
 
 ---
 
-## 💡 My Passions & Tech Interests
+## My Passions & Tech Interests
 - Cybersecurity & IT‑networking  
 - Embedded C, FreeRTOS, Arduino, Raspberry Pi, Linux  
 - Hardware reverse‑engineering & PCB layout  
@@ -73,7 +73,7 @@ Documentation-backed repository for a radio mesh AREA network—complete guide i
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 ###
 
 <div align="center">
